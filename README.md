@@ -29,6 +29,10 @@ Este programa crea un icono en la barra de tareas que, al ser pulsado, muestra u
     <img src="fotos/Notificacion.png" alt="Notificación de Batería" width="300">
   </p>
 
+## Video Demostrativo
+
+Puedes ver una demostración del programa y la instalacion del mismo en este [enlace](https://www.tiktok.com/@alexisjimenez40/video/7308461063824002310?is_from_webapp=1&sender_device=pc&web_id=7174927332569269765).
+
 
 ## Instrucciones
 
@@ -37,6 +41,7 @@ Este programa crea un icono en la barra de tareas que, al ser pulsado, muestra u
 
 2. **Ejecutar el Script:**
    - Si es posible ejecuta el script como administrador para obtener información sobre la batería y recibir notificaciones de manera correcta, de lo contrario el programa se instalara pero podra darte algunos errores.
+  
 
 ## Descargar
 
