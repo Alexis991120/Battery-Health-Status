@@ -1,4 +1,4 @@
-<img src="bateria.ico" alt="Battery Icon" width="30">## Battery Health Status <img src="bateria.ico" alt="Battery Icon" width="30">
+##<img src="bateria.ico" alt="Battery Icon" width="30"> Battery Health Status <img src="bateria.ico" alt="Battery Icon" width="30">
 
 
 
