@@ -9,6 +9,8 @@ Este programa se encuentra en su version 1.0 por lo que es normal que exitan bug
 
 Este programa crea un icono en la barra de tareas que, al ser pulsado, muestra una notificación con información sobre el estado de la batería, incluyendo el nivel de carga y la vida útil estimada de la batería.
 
+#Este programa es unicamente para el sistema operativo `windows 10/11`, para equipos que contengan una bateria instalada en el sistema.
+
 ## Funcionalidades
 
 - Genera un informe de batería en formato HTML.
