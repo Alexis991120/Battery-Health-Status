@@ -1,4 +1,4 @@
-## Battery Health Status <img src="bateria.ico" alt="Battery Icon" width="30">
+<img src="bateria.ico" alt="Battery Icon" width="30">## Battery Health Status <img src="bateria.ico" alt="Battery Icon" width="30">
 
 
 
@@ -18,14 +18,15 @@ Este programa crea un icono en la barra de tareas que, al ser pulsado, muestra u
 ## Capturas de Pantalla
 
 - **Icono en la Barra de Tareas:**
-  ![Icono en la Barra de Tareas](fotos/Barra.png)
-
-
-
-
+  <p align="center">
+    <img src="fotos/Barra.png" alt="Icono en la Barra de Tareas" width="300">
+  </p>
 
 - **Notificación de Batería:**
-  ![Notificación de Batería](fotos/Notificacion.png)
+  <p align="center">
+    <img src="fotos/Notificacion.png" alt="Notificación de Batería" width="300">
+  </p>
+
 
 ## Instrucciones
 
