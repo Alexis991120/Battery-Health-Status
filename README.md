@@ -1,4 +1,4 @@
-##<img src="bateria.ico" alt="Battery Icon" width="30"> Battery Health Status <img src="bateria.ico" alt="Battery Icon" width="30">
+<img src="bateria.ico" alt="Battery Icon" width="30"> Battery Health Status <img src="bateria.ico" alt="Battery Icon" width="30">
 
 
 
@@ -38,7 +38,7 @@ Este programa crea un icono en la barra de tareas que, al ser pulsado, muestra u
 
 ## Descargar
 
-Puedes descargar la versión ejecutable del programa [aquí](https://cdn.discordapp.com/attachments/1014777564239245334/1175892444118794251/BatteryHealthStatus.exe?ex=656ce22d&is=655a6d2d&hm=6a0ac89e39c3c35bc03dd0d2a9c38a95be6adc8583c41fbf264a7f35001194cf&).
+Puedes descargar la versión ejecutable del programa<img src="bateria.ico" alt="Battery Icon" width="15"> [aquí](https://cdn.discordapp.com/attachments/1014777564239245334/1175892444118794251/BatteryHealthStatus.exe?ex=656ce22d&is=655a6d2d&hm=6a0ac89e39c3c35bc03dd0d2a9c38a95be6adc8583c41fbf264a7f35001194cf&).<img src="bateria.ico" alt="Battery Icon" width="15">
 Solo sigue las instrucciones del instalador y no deberias tener ningun problema
 
 **Nota:** Asegúrate de ejecutar el programa con permisos de administrador para acceder a la información de la batería.
