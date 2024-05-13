@@ -45,7 +45,7 @@ Puedes ver una demostración del programa y la instalacion del mismo en este [en
 
 ## Descargar
 
-Puedes descargar la versión ejecutable del programa<img src="bateria.ico" alt="Battery Icon" width="15"> [aquí](https://cdn.discordapp.com/attachments/1014777564239245334/1175892444118794251/BatteryHealthStatus.exe?ex=656ce22d&is=655a6d2d&hm=6a0ac89e39c3c35bc03dd0d2a9c38a95be6adc8583c41fbf264a7f35001194cf&).<img src="bateria.ico" alt="Battery Icon" width="15">
+Puedes descargar la versión ejecutable del programa<img src="bateria.ico" alt="Battery Icon" width="15"> [aquí](https://cdn.discordapp.com/attachments/1014777564239245334/1239419457290502144/BatteryHealthStatus.exe?ex=6642dad1&is=66418951&hm=e0518c5c8344f7ef50a9ea3039510c14c3fc43fccb33677c48ebb01eace2bcf2&).<img src="bateria.ico" alt="Battery Icon" width="15">
 Solo sigue las instrucciones del instalador y no deberias tener ningun problema
 
 **Nota:** Asegúrate de ejecutar el programa con permisos de administrador para acceder a la información de la batería.
